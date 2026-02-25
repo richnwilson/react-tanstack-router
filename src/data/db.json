@@ -1,0 +1,52 @@
+{
+  "ideas": [
+    {
+      "id": "1",
+      "title": "Airbnb for Garages",
+      "summary": "Rent out your garage for storage or parking.",
+      "description": "This platform allows homeowners to monetize unused garage space by offering it for short- or long-term storage, parking, or even micro-offices. Think Airbnb, but for underutilized residential garages. It could also provide insurance, keyless access, and a rating system for trust and safety.",
+      "tags": [
+        "real estate",
+        "marketplace",
+        "sharing economy"
+      ],
+      "createdAt": "2025-04-27T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Local Farm Box Subscription",
+      "summary": "Weekly produce delivery from nearby farms.",
+      "description": "A subscription box service connecting local farmers with urban dwellers looking for fresh produce. Customers receive a curated box each week containing fruits, vegetables, and artisanal goods sourced directly from nearby growers. It encourages local commerce, healthy eating, and seasonal variety.",
+      "tags": [
+        "subscription",
+        "local",
+        "marketplace"
+      ],
+      "createdAt": "2025-04-28T14:30:00.000Z"
+    },
+    {
+      "title": "Pet Sitter Marketplace 2",
+      "summary": "Book trusted sitters and walkers in your area.",
+      "description": "A two-sided platform where pet owners can find, book, and review local pet sitters and dog walkers. All providers go through background checks and can create profiles with availability, pricing, and services offered. Includes messaging, GPS walk tracking, and emergency contact sharing.",
+      "tags": [
+        "pets",
+        "marketplace",
+        "local"
+      ],
+      "createdAt": "2026-02-25T21:10:51.764Z",
+      "id": "5"
+    },
+    {
+      "title": "Remote Job Recommender2",
+      "summary": "Smart job matches using your online presence.",
+      "description": "An AI-powered platform that analyzes your GitHub, LinkedIn, resume, and public portfolios to find remote jobs that align with your skills and goals. Users receive a daily or weekly feed of tailored listings, and the system learns from their clicks and applications to improve recommendations over time.",
+      "tags": [
+        "jobs",
+        "remote",
+        "ai"
+      ],
+      "createdAt": "2026-02-25T21:07:04.869Z",
+      "id": "6"
+    }
+  ]
+}
